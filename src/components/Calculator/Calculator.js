@@ -11,8 +11,8 @@ class Calculator extends Component {
         super()
 
         this.state = {
-            equation: '50*2',
-            result: 100
+            equation: '',
+            result: 0
         }
     }
 
